@@ -1,2 +1,2 @@
 # haber-yazilimi
-Haber Yazılımı sitesinin github'ıdır.
+[Haber Yazılımı](https://haberyazilimi.blog) sitesinin github'ıdır.
